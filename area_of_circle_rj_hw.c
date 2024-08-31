@@ -3,16 +3,16 @@
 int main()
 {
  
-    int r=0;
-    int py=3;
-    int area=0;
+    float r=0;
+    float py=3.14;
+    float area=0;
     
     printf("enter the radius:");
-    scanf("%d", &r);
+    scanf("%f", &r);
     
     area= py*r*r;
     
-    printf("the area is: %d", area);
+    printf("the area is: %f", area);
     
 
 }
