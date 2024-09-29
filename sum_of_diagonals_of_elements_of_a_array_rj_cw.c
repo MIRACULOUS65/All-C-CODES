@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    int m, sum1 = 0, i, j,sum2=0;
+    int m, sum1 = 0, i, j, sum2 = 0;
 
     printf("enter the range of the matrix");
     scanf("%d", &m);
@@ -42,7 +42,7 @@ int main()
     {
         for (j = 0; j < m; j++)
         {
-            if (i+j==m-1)
+            if (i + j == m - 1)
             {
                 sum2 = sum2 + arr[i][j];
             }
