@@ -6,3 +6,4 @@ all hw codes also will be here
 <br>
 C will be done before November ending
 <br>
+currently on string 
