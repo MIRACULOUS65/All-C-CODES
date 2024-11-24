@@ -9,3 +9,4 @@ C will be done within 2 weeks
 currently on POINTER ARITHMETIC
 <br>
 started hardcore grinding from today 21st november
+drawing closer to the end
