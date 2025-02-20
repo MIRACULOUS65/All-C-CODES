@@ -2,11 +2,4 @@
 <br>
 all C codes from every platform and from pvt will be stored here
 <br>
-all hw codes also will be here
-<br>
-C will be done within 2 weeks
-<br>
-currently on POINTER ARITHMETIC
-<br>
-started hardcore grinding from today 21st november
-drawing closer to the end
+Completed on 29th Jan, 2K25
