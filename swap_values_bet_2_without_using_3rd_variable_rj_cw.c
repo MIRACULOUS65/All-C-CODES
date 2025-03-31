@@ -2,20 +2,20 @@
 int main()
 {
     int a;
-    int b;
+    int b,temp;
 
-    printf("enter the first number");
+    printf("enter the first number \t");
     scanf("%d",&a);
 
-    printf("enter the second number");
+    printf("enter the second number\t");
     scanf("%d",&b);
     
+    a=a+b;
     b=a-b;
     a=a-b;
-    b=b+a;
 
-    printf("the new first variable is: %d",a);
+    printf("the new first variable is:\t %d",a);
 
-    printf("the new second variable is: %d",b);
+    printf("the new second variable is: \t%d",b);
     
 }
