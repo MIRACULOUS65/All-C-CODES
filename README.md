@@ -2,11 +2,8 @@
 <br>
 all C codes from every platform and from pvt will be stored here
 <br>
-all hw codes also will be here
+Completed on 29th Jan, 2K25
 <br>
-C will be done within 2 weeks
+Also Code from Second semester will be added here
 <br>
-currently on POINTER ARITHMETIC
-<br>
-started hardcore grinding from today 21st november
-drawing closer to the end
+With in prefix of the code name, s2 will be mentioned
