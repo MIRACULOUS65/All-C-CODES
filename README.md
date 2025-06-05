@@ -4,6 +4,7 @@
 [![Stars](https://img.shields.io/github/stars/MIRACULOUS65/All-C-CODES?style=social)](https://github.com/MIRACULOUS65/All-C-CODES/stargazers)
 [![Forks](https://img.shields.io/github/forks/MIRACULOUS65/All-C-CODES?style=social)](https://github.com/MIRACULOUS65/All-C-CODES/fork)
 [![LinkedIn](https://img.shields.io/badge/Connect-Sushovan%20Ghosh-blue?logo=linkedin)](https://www.linkedin.com/in/sushovan-ghosh)
+![VS Code Preview](./image/Screenshot%202025-06-05%20230441.jpg)  
 
 > 📌 A mega repository consisting of numerous **beginner to intermediate C programs** covering core concepts like logic building, data structures, pointer manipulation, string handling, recursion, and much more!
 
@@ -11,7 +12,7 @@
 
 ## 📚 About the Repository
 
-This repository is a **comprehensive collection of C programs** created for practice, assignments, and interview preparation. It contains **over 10+ fully tested and executable C source files**, with more added regularly.
+This repository is a **comprehensive collection of C programs** created for practice, assignments, and interview preparation. It contains **over many fully tested and executable C source files**, with more added regularly.
 
 🧠 Whether you're just starting with C or brushing up for exams/interviews — this is a must-have for your learning journey.
 
@@ -64,7 +65,7 @@ gcc filename.c -o program
 - ✅ Stack (Array + Pointer Implementation)
 - ✅ Matrix and Sparse Matrix
 - ✅ Palindromes, Prime Checks, Factorials, etc.
-
+- and many more
 ---
 
 ## 📷 Screenshots & Outputs
